@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+
+#firstsec {
+    height: 100vh;
+    background-color: grey;
+    font-size: 7em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+
+span {
+    color: cyan;
+
+}
+
+
+#aboutme
