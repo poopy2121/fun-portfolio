@@ -1,20 +1,36 @@
 body {
     margin: 0;
+    background-color: black;
+    color: white;
 }
 
 
 #firstsec {
-    height: 100vh;
-    background-color: grey;
+    border: solid;
     font-size: 7em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 700;
+    text-align: center;
+    margin-top: 15rem;
 }
 
-span {
-    color: cyan;
+#name {
+    color: rgb(218, 66, 197);
 
 }
 
+#littletext {
+    font-size: 0.1em;
+}
 
-#aboutme
+
+#aboutme {
+}
+
+
+
+#tech img {
+    height: 200px;
+    width: auto;
+
+}
