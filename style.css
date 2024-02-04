@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: black;
     color: white;
+    height: 250vh;
 }
 
 #firstsec {
@@ -40,8 +41,23 @@ body {
 
 #thirdsection {
     background-color: olivedrab;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+
+
+#contact {
+    background-color: orange;
+    height: 250px;
+    text-align: center;
+}
 
 #name {
     color: rgb(0, 128, 128);
